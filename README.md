@@ -13,10 +13,10 @@ Data structures and algorithms are patterns that you can use to solve common pro
 ## What will you learn in this course?
 
 1. Algorithmic thinking
-   - Big O notation [Reading...](./01-algorithmic-thinking/big-o-notation.md)
-   - Data Structures [Reading...](./01-algorithmic-thinking/data-structures.md)
-   - Algorithms [Reading...](./01-algorithmic-thinking/algorithms.md)
-
+   - Big O notation 
+   - Data Structures 
+   - Algorithms 
+  
 2. Array and string manipulation
    - Reverse a string
    - Palindrome
