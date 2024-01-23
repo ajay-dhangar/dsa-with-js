@@ -24,11 +24,11 @@ These are just a starting point, and you can create variations or add more quest
    - **Input:** `[-2, 1, -3, 4, -1, 2, 1, -5, 4]`
    - **Output:** `6` (Subarray `[4, -1, 2, 1]` has the maximum sum)
 
-7. **Task: Merge Two Sorted Arrays**
+7. **Task: Merge Two Sorted Arrays** 
    - **Input:** `[1, 3, 5]`, `[2, 4, 6]`
    - **Output:** `[1, 2, 3, 4, 5, 6]`
 
-8. **Task: Move Zeros to the End**
+8. **Task: Move Zeros to the End** 
    - **Input:** `[0, 2, 0, 4, 0, 5, 6]`
    - **Output:** `[2, 4, 5, 6, 0, 0, 0]`
 
